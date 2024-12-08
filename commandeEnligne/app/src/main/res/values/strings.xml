@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Général -->
+    <string name="app_name">CommandeEnLigne</string>
+
+    <!-- Authentification -->
+    <string name="login">Connexion</string>
+    <string name="register">Inscription</string>
+    <string name="logout">Déconnexion</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+
+    <!-- Commandes -->
+    <string name="my_orders">Mes Commandes</string>
+    <string name="order_details">Détails de la Commande</string>
+    <string name="create_order">Créer une Commande</string>
+    <string name="no_orders_yet">Aucune commande pour le moment</string>
+    <string name="order_id_format">Commande #%1$s</string>
+    <string name="total_amount_format">Total : %1$.2f €</string>
+    <string name="quantity_format">Quantité : %1$d</string>
+
+    <!-- Statuts de Commande -->
+    <string name="order_status_pending">En attente</string>
+    <string name="order_status_confirmed">Confirmée</string>
+    <string name="order_status_processing">En préparation</string>
+    <string name="order_status_shipped">Expédiée</string>
+    <string name="order_status_delivered">Livrée</string>
+    <string name="order_status_cancelled">Annulée</string>
+
+    <!-- Livraisons -->
+    <string name="my_deliveries">Mes Livraisons</string>
+    <string name="delivery_details">Détails de la Livraison</string>
+
+    <!-- Actions -->
+    <string name="sort_by_date">Trier par date</string>
+    <string name="sort_by_status">Trier par statut</string>
+
+    <!-- Erreurs -->
+    <string name="error_loading_orders">Erreur lors du chargement des commandes</string>
+    <string name="error_loading_deliveries">Erreur lors du chargement des livraisons</string>
+</resources>
